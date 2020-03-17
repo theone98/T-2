@@ -1,0 +1,15 @@
+
+h2{
+  text-align: center;
+  background: dodgerblue;
+  margin:20px auto;
+  width:720px;
+  border-radius: 5px;
+  background: linear-gradient(dodgerblue,deepskyblue);
+}
+.mew-form
+{
+    width: 30%;
+    margin: 0 auto;
+
+}
